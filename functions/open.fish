@@ -20,7 +20,6 @@ function open -d 'Open a file, directory, or URL in the default application'
       set destination (wslpath -w $destination)
     end
 
-    echo $destination
     command explorer.exe $destination >/dev/null 2>&1
     return 0
   end
