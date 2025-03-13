@@ -17,22 +17,17 @@ fisher update
 
 ## Functions
 
-<!-- It's handling relative URLs weird -->
-- [`chat`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/chat.fish): OpenAI chat CLI
-- [`dracula`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/dracula.fish): Toggle Dracula Pro theme in Hyper terminal
-- [`fio`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/fio.fish): File.io CLI
-- [`format`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/format.fish): Display a number in various formats
-- [`gituser`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/gituser.fish): Update Git config with email address and corresponding GPG key
-- [`google`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/google.fish): Open different Google pages from the terminal
-- [`mkcd`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/mkcd.fish): Create a directory and change to it
-- [`nvm`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/nvm.fish): Node Version Manager
-- [`octal`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/octal.fish): Show octal permissions for a file
-- [`postgresql`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/postgresql.fish): Run a Postgres container
-- [`pypi`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/pypi.fish): Search PyPI for package info
-- [`redis`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/redis.fish): Run a Redis container with RedisInsight
-- [`spinner`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/spinner.fish): Ora-like loading spinner
-- [`ubuntu`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/ubuntu.fish): Run an Ubuntu container
-- [`up`](https://github.com/adamelliotfields/fish-fns/blob/main/functions/up.fish): Move up $n$ directories
+- [`chat`](./functions/chat.fish): OpenAI chat CLI
+- [`fio`](./functions/fio.fish): File.io CLI
+- [`format`](./functions/format.fish): Display a number in various formats
+- [`gituser`](./functions/gituser.fish): Update Git config with email address and corresponding GPG key
+- [`mkcd`](./functions/mkcd.fish): Create a directory and change to it
+- [`nvm`](./functions/nvm.fish): Node Version Manager
+- [`octal`](./functions/octal.fish): Show octal permissions for a file
+- [`open`](./functions/open.fish): Universal open command
+- [`pypi`](./functions/pypi.fish): Search PyPI for package info
+- [`spinner`](./functions/spinner.fish): Ora-like loading spinner
+- [`up`](./functions/up.fish): Move up $n$ directories
 
 ## Inspiration
 
