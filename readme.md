@@ -22,7 +22,6 @@ fisher update
 - [`format`](./functions/format.fish): Display a number in various formats
 - [`gituser`](./functions/gituser.fish): Update Git config with email address and corresponding GPG key
 - [`mkcd`](./functions/mkcd.fish): Create a directory and change to it
-- [`nvm`](./functions/nvm.fish): Node Version Manager
 - [`octal`](./functions/octal.fish): Show octal permissions for a file
 - [`open`](./functions/open.fish): Universal open command
 - [`pypi`](./functions/pypi.fish): Search PyPI for package info
